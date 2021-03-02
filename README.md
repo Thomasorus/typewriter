@@ -20,3 +20,8 @@ Ideals:
 
 - Dependance free
 - As light as possible
+
+Design ideas:
+
+- Each action should have its own borderless windows
+- You can trigger each windows with a shortcut
